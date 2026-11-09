@@ -166,7 +166,7 @@ Through this project, I gained practical experience in:
 
 The complete project documentation includes the Azure setup, VM configuration, event simulations, KQL investigations, analytics rule configuration, screenshots, observations, and conclusions.
 
-**Project Report:** [EH_6253_LabProject.pdf](EH_6253_LabProject.pdf)
+**Project Report:** [Microsoft_Sentinel.docx](Microsoft_Sentinel.docx)
 
 ## Disclaimer
 
